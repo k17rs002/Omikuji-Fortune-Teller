@@ -1,0 +1,2 @@
+# Omikuji-Fortune-Teller
+おみくじサンプルプログラムをいじる
